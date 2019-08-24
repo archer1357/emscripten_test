@@ -1,1 +1,1 @@
-# emscripten_test
+# emscripten-test
